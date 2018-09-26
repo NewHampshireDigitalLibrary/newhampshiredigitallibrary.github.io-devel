@@ -1,0 +1,4 @@
+baseURL = "http://nhdiglib.org/"
+languageCode = "en-us"
+title = "New Hampshire Digital Library"
+theme = "hugograyscale"

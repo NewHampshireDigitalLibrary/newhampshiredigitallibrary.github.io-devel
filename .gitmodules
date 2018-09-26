@@ -1,0 +1,3 @@
+[submodule "nhdiglib.org/themes/hugograyscale"]
+	path = nhdiglib.org/themes/hugograyscale
+	url = https://github.com/runningstream/hugograyscale.git
