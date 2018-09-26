@@ -1,3 +1,6 @@
 [submodule "nhdiglib.org/themes/hugograyscale"]
 	path = nhdiglib.org/themes/hugograyscale
 	url = https://github.com/runningstream/hugograyscale.git
+[submodule "nhdiglib.org/public"]
+	path = nhdiglib.org/public
+	url = git@github.com:NewHampshireDigitalLibrary/newhampshiredigitallibrary.github.io.git
